@@ -1,0 +1,2 @@
+# CultureInfos
+Maj
